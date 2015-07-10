@@ -1,5 +1,5 @@
 ###!
-# AFPdb - CoffeeScript [v0.0.1]
+# AFPdb [v0.0.1] - CoffeeScript
 # =============================
 # @author    : Prabhat Kumar
 # @date      : 10-July-2015
