@@ -20,3 +20,15 @@ var sourcemaps  = require('gulp-sourcemaps');
 var connect        = require('gulp-connect');
 var jade              = require('gulp-jade');
 var htmlmin        = require('gulp-htmlmin');
+var coffee          = require('gulp-coffee');
+// utility modules.
+var path                   = require('path');
+var gutil             = require('gulp-util');
+var gulpif              = require('gulp-if');
+var size              = require('gulp-size');
+var del                     = require('del');
+var notify          = require("gulp-notify");
+var rename          = require("gulp-rename");
+var replace        = require('gulp-replace');
+var bytediff      = require('gulp-bytediff');
+var chmod            = require('gulp-chmod');
