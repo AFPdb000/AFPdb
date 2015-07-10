@@ -1,1 +1,29 @@
-{}
+{
+  "name": "AFPdb",
+  "version": "0.0.1",
+  "description": "Antifreeze Proteins (AFPs) Database",
+  "keywords": [
+    "Antifreeze",
+    "Proteins",
+    "Database",
+    "scientific",
+    "data",
+    "visualization"
+  ],
+  "homepage": "http://research.sequomics.com/",
+  "author": {
+    "name": "Prabhat Kumar",
+    "url": "http://prabhatkumar.org/"
+  },
+  "contributors": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AFPdb/AFPdb.git"
+  },
+  "license": "Apache v2.0"
+}
